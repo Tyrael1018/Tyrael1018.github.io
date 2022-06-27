@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: Tyrael1018.github.io/sitemap.xml
